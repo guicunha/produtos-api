@@ -30,5 +30,4 @@ export class ProdutosContoller {
         return `O produto id: ${params.id} foi removido com sucesso`
     }
 
-
 }
